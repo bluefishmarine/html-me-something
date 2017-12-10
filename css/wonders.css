@@ -1,3 +1,30 @@
+main{
+	width:100%;
+	text-align: center;
+}
+
+hr{
+	width: 80%;
+}
+
 h1{
 	color: blue;
 }
+
+body{
+	background-color: rgb(208, 219, 237);
+}
+
+img{
+	max-width: 80%;
+}
+
+
+article{
+	margin: 0 10% 0 10%;
+}
+
+article p{
+	text-align: left;
+}
+
